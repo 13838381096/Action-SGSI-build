@@ -6,23 +6,23 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://hugeota.d.miui.com/21.5.31/miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'https://0bbf395cbf57b7dc.jomoxc.com:11266/fs57cb1b02.a.bdydns.com/4113596937/Firmware/Flyme/16s_Pro/7.3.4.2/cn/20191017191557/5362b1dc/update.zip?r=Ii4gOx9NVxsgPhxdFAI8VWcoMThCERRNKzJAUwwOYXYjKDk8DQUdGwA7F10GTH8GOQUEOQNYTxp1eVoeUUwtXmVoZHpVRkgFcWZXAVZWeR9%2FaWJ5DkYcV2kiHlQCFyseMDMkdA0CDFwZPAtJXlJ5AntuYHJZT0sZdnpeHVUFeVJ9bzV%2BDREcByBgWgcBBnYALzs2el1GSFcjYF4FJSoxJQ8TFgUpJwteAAcgAQ%3D%3D&xcid=3540887e10f64319862a010305604b4a&max_age=7776000&xcsched=3490947958&xclogid=7758587884921577599&xauzkey=mngx_ac568121f9562c9ec271fc6d1f201d82_1721697983&f_ver=v1&bcecdn_trace_info=MXg%2BIwJVQhY%2BL1xFDVZ%2FEmZ4JGlWVQBXIjlMTSUqMSUPExYFKScLXgAHIAE%3D&auth_key=1721449583-0-0-6f7b75a5afd3f747be80eab1110ce705'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'flyme9.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'miui'
+        default: 'flyme'
       SGSI_TYPE:
         description: 'SGSI_TYPE(AB, A, or BOTH)'
         required: true
-        default: 'AB'
+        default: 'A'
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
-        default: 'SGSI.zip'
+        default: 'SGSIFLYME.zip'
 
 
 
