@@ -10,7 +10,7 @@ on:
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'flyme9.zip'
+        default: 'update.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
